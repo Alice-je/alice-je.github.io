@@ -114,8 +114,7 @@
 .main {
   background-image: url(../img/home_bg.png);
   background-repeat: no-repeat;
-  width: calc(100%);
-  height: 641px;
+  background-size: cover;
   position: absolute;
   top: 120px;
   left: 0px;

@@ -130,7 +130,34 @@
   margin-bottom: 40px;
 }
 
+.main_button01:hover {
+  border: none;
+  display: inline-block;
+  text-align: center;
+  background-color: #ad343e;
+  color: #ffffff;
+  width: 102.4px;
+  height: 51.2px;
+  border-radius: 30px;
+  font-size: 12.8px;
+  font-weight: 500;
+}
+
 .main_button01 {
+  background-color: white;
+  color: #182226;
+  border: 1.5px solid #182226;
+  display: inline-block;
+  text-align: center;
+  width: 102.4px;
+  height: 51.2px;
+  border-radius: 30px;
+  font-size: 12.8px;
+  font-weight: 500;
+  margin-left: 12.8px;
+}
+
+.main_button02:hover {
   border: none;
   display: inline-block;
   text-align: center;
